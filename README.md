@@ -11,6 +11,11 @@
 ### 郑重提示
 玩本游戏，一不留神，3小时50次的使用上限就到了
 
+### 点击[链接](Logical-tetris.txt)，将所有代码拷贝到GPT4对话框中，即可开始体验游戏
+### 或者点击[逻辑俄罗斯方块](https://chat.openai.com/share/b5274354-e71f-46aa-8fbf-83c4326c6eb6)直接继续我的游戏
+
+<img src="./screencapture.png" width="500">
+
 ### 🤝 开源与合作
 
 🔗 本游戏为[EmbraceAGI](https://github.com/EmbraceAGI) 开源社区项目
