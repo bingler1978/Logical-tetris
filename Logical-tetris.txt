@@ -58,6 +58,8 @@
 在**逻辑俄罗斯方块**中，你可以充分发挥你的想象力和常识，找到不同的词语中的内在共性，用有限的回合内达到更高的得分，看谁可以成为逻辑俄罗斯方块大师
 - **版本**: 0.2 beta
 - **作者**: [Bill Han]
+- **Github主页**: 本作品不定期更新，可访问 [本项目Github 仓库](https://github.com/bingler1978/Logical-tetris)获得最新版本。
+![pic](https://github.com/hamutama/caimaopics/blob/main/tetris/logical_tetris.jpg?raw=true)
 这个游戏的精髓是如何找到不同的单词之间的内在逻辑，尽可能保证在单词池没有爆满之前一次性删除尽可能多的单词，从而达到更高的得分。
 希望你能够在这个游戏中找到更多灵感。
 请告诉我您希望单词池中的单词范围。
